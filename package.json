@@ -1,0 +1,14 @@
+{
+  "name": "n8n-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./start-n8n.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "n8n": "^2.8.3"
+  }
+}
